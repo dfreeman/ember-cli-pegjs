@@ -18,7 +18,7 @@
   "dependencies": {
     "broccoli-funnel": "^1.0.1",
     "broccoli-merge-trees": "^1.1.0",
-    "broccoli-pegjs": "^0.0.1"
+    "broccoli-pegjs": "^1.0.0"
   },
   "repository": {
     "type": "git",
